@@ -1,5 +1,7 @@
 # First Graphics App
 
+See it [here](https://gordonje-nicar-2020.github.io/first-graphics-app/)!
+
 Generated on 2020-03-07 using
 [generator-yeogurt@3.1.2](https://github.com/larsonjj/generator-yeogurt)
 
@@ -20,6 +22,7 @@ Styles
 - [Sass](http://sass-lang.com/) via ([node-sass](https://github.com/sass/node-sass))
 
 Markup
+
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
 Optimization
